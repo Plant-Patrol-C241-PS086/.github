@@ -3,41 +3,35 @@
 ---
 
 ## 🤖 Machine Learning (ML) Team
-1. **Stefana Windu Prasasti**
-   - **ID:** M008D4KX2282
-   - **Institution:** Universitas Gadjah Mada
+<div align="center">
 
-2. **Hilma Fadiya Subekti**
-   - **ID:** M008D4KX2025
-   - **Institution:** Universitas Gadjah Mada
+| Contributor | ID | Institution |
+| --- | --- | --- |
+| **Stefana Windu Prasasti** | M008D4KX2282 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
+| **Hilma Fadiya Subekti** | M008D4KX2025 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
+| **Muhammad Rafi Arandi Dani** | M008D4KXY2848 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
 
-3. **Muhammad Rafi Arandi Dani**
-   - **ID:** M008D4KXY2848
-   - **Institution:** Universitas Gadjah Mada
+</div>
 
 ---
 
 ## ☁️ Cloud Computing (CC) Team
-1. **Alya Nabila Kurniawan**
-   - **ID:** C297D4KX0427
-   - **Institution:** Universitas Pembangunan Nasional Veteran Yogyakarta
+<div align="center">
 
-2. **Nanda Dwi Febriyanti**
-   - **ID:** C297D4KX0071
-   - **Institution:** Universitas Pembangunan Nasional Veteran Yogyakarta
+| Contributor | ID | Institution |
+| --- | --- | --- |
+| **Alya Nabila Kurniawan** | C297D4KX0427 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
+| **Nanda Dwi Febriyanti** | C297D4KX0071 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
+
+</div>
 
 ---
+
 ## 📱 Mobile Development (MD) Team
 <div align="center">
 
 | Contributor | ID | Institution |
 | --- | --- | --- |
-| **Bryan Tegar Mahardika** | A297D4KXY4574 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta]
+| **Bryan Tegar Mahardika** | A297D4KXY4574 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
 
 </div>
-
-## 📱 Mobile Development (MD) Team
-1. **Bryan Tegar Mahardika**
-   - **ID:** A297D4KXY4574
-   - **Institution:** Universitas Pembangunan Nasional Veteran Yogyakarta
-
