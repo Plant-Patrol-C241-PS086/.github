@@ -7,9 +7,9 @@
 
 | Contributor | ID | Institution |
 | --- | --- | --- |
-| **Stefana Windu Prasasti** | M008D4KX2282 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
-| **Hilma Fadiya Subekti** | M008D4KX2025 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
-| **Muhammad Rafi Arandi Dani** | M008D4KXY2848 | Universitas Gadjah Mada <br> ![UGM](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_UGM.png) |
+| **Stefana Windu Prasasti** | M008D4KX2282 | Universitas Gadjah Mada |
+| **Hilma Fadiya Subekti** | M008D4KX2025 | Universitas Gadjah Mada |
+| **Muhammad Rafi Arandi Dani** | M008D4KXY2848 | Universitas Gadjah Mada |
 
 </div>
 
@@ -20,8 +20,8 @@
 
 | Contributor | ID | Institution |
 | --- | --- | --- |
-| **Alya Nabila Kurniawan** | C297D4KX0427 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
-| **Nanda Dwi Febriyanti** | C297D4KX0071 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
+| **Alya Nabila Kurniawan** | C297D4KX0427 | Universitas Pembangunan Nasional Veteran Yogyakarta |
+| **Nanda Dwi Febriyanti** | C297D4KX0071 | Universitas Pembangunan Nasional Veteran Yogyakarta |
 
 </div>
 
@@ -32,6 +32,6 @@
 
 | Contributor | ID | Institution |
 | --- | --- | --- |
-| **Bryan Tegar Mahardika** | A297D4KXY4574 | Universitas Pembangunan Nasional Veteran Yogyakarta <br> ![UPN Veteran Yogyakarta](https://upload.wikimedia.org/wikipedia/id/thumb/a/a6/UPN_Veteran_Yogyakarta.png/180px-UPN_Veteran_Yogyakarta.png) |
+| **Bryan Tegar Mahardika** | A297D4KXY4574 | Universitas Pembangunan Nasional Veteran Yogyakarta |
 
 </div>
